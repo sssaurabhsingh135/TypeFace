@@ -13,7 +13,7 @@ python -m venv .venv <br>
 Activate the virtual environment:<br>
  On Windows:<br>
 .venv\Scripts\activate<br>
- On macOS/Linux:<br><br>
+ On macOS/Linux:
 source .venv/bin/activate<br>
 Install the required packages:<br>
 pip install -r requirements.txt<br><br>
