@@ -10,7 +10,7 @@ npm run dev
 # For any clarification use API_ENDPOINTS.md For API json structure
 
 # Backend Setup
-Create a virtual environment:
+Create a virtual environment: <br>
 python -m venv .venv
 Activate the virtual environment:
 
