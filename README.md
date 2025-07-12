@@ -2,14 +2,18 @@
 
 Frontend Setup <br>
 Open your terminal. <br><br>
+Add .env file and put local host url
 Run the following command to install dependencies:<br>
 npm install<br>
 npm run dev <br><br>
 For any clarification use API_ENDPOINTS.md For API json structure<br><br>
 
+
+
 Backend Setup
 Create a virtual environment: <br>
 python -m venv .venv <br>
+Add .env file and put local host MongoDB url
 Activate the virtual environment:<br>
  On Windows:<br>
 .venv\Scripts\activate<br>
