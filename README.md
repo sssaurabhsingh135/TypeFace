@@ -2,7 +2,7 @@
 
 Frontend Setup <br>
 Open your terminal. <br><br>
-Run the following command to install dependencies:
+Run the following command to install dependencies:<br>
 npm install<br>
 npm run dev <br><br>
 For any clarification use API_ENDPOINTS.md For API json structure<br><br>
