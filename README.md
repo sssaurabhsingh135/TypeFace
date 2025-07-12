@@ -6,7 +6,6 @@ Open your terminal.
 # Run the following command to install dependencies:
 
 npm install
-After a successful installation, start the development server:
 npm run dev
 # For any clarification use API_ENDPOINTS.md For API json structure
 
