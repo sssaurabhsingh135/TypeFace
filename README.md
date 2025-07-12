@@ -3,6 +3,7 @@
 Frontend Setup <br>
 Open your terminal. <br><br>
 Add .env file and put local host url
+VITE_API_URL="http://127.0.0.1:5000"
 Run the following command to install dependencies:<br>
 npm install<br>
 npm run dev <br><br>
@@ -14,6 +15,9 @@ Backend Setup
 Create a virtual environment: <br>
 python -m venv .venv <br>
 Add .env file and put local host MongoDB url
+MONGO_URL="mongodb://localhost:27017"
+DB_NAME="TypeFace"
+UPLOAD_FOLDER="Files"
 Activate the virtual environment:<br>
  On Windows:<br>
 .venv\Scripts\activate<br>
