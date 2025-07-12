@@ -1,24 +1,24 @@
 # TypeFace
 
-# Frontend Setup
-Open your terminal.
+Frontend Setup <br>
+Open your terminal. <br><br>
 
-# Run the following command to install dependencies:
+Run the following command to install dependencies:<br><br>
 
-npm install
-npm run dev
-# For any clarification use API_ENDPOINTS.md For API json structure
+npm install<br>
+npm run dev <br><br>
+For any clarification use API_ENDPOINTS.md For API json structure<br><br>
 
-# Backend Setup
+Backend Setup<br><br>
 Create a virtual environment: <br>
-python -m venv .venv
-Activate the virtual environment:
+python -m venv .venv <br>
+Activate the virtual environment:<br>
 
-# On Windows:
-.venv\Scripts\activate
-# On macOS/Linux:
-source .venv/bin/activate
-Install the required packages:
-pip install -r requirements.txt
+ On Windows:<br>
+.venv\Scripts\activate<br>
+ On macOS/Linux:<br><br>
+source .venv/bin/activate<br>
+Install the required packages:<br>
+pip install -r requirements.txt<br><br>
 
 Run the backend server (by default it runs on http://127.0.0.1:5000)
