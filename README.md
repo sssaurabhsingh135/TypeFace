@@ -2,7 +2,6 @@
 
 Frontend Setup <br>
 Open your terminal. <br><br>
-
 Run the following command to install dependencies:
 npm install<br>
 npm run dev <br><br>
@@ -12,7 +11,6 @@ Backend Setup
 Create a virtual environment: <br>
 python -m venv .venv <br>
 Activate the virtual environment:<br>
-
  On Windows:<br>
 .venv\Scripts\activate<br>
  On macOS/Linux:<br><br>
