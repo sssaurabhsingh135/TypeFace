@@ -3,7 +3,7 @@
 Frontend Setup <br>
 Open your terminal. <br><br>
 
-Run the following command to install dependencies:<br><br>
+Run the following command to install dependencies:<br>
 
 npm install<br>
 npm run dev <br><br>
